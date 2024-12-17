@@ -1,5 +1,5 @@
-# Try This: Hands-On Practice with Variables and Expressions
-
+# Try This:
+# ■■■■■■■■■■■■■■■■■■■■■■ Chapter 04 ■■■■■■■■■■■■■■■■■■■■■■ #
 # Variables and Naming Rules
 x = 2 + 4 * 5 - 6 / 3
 y = (2 + 4) * (5 - 6 / 3)
